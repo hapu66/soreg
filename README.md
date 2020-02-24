@@ -21,6 +21,7 @@ remotes::install_github("Rapporteket/soreg")
 ## Usage
 
 ## Develop
+Branch from 'master', do your coding and issue a pull request.
 
 ## Ethics
 Please note that the 'soreg' project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By contributing to this project, you agree to abide by its terms.
