@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 docs/
+inst/shinyApps/soreg/figure*
+inst/shinyApps/soreg/*.md

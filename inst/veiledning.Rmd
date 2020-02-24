@@ -1,0 +1,11 @@
+---
+title: 'Veiledning'
+author: 'Rapporteket'
+date: '`r format(Sys.time(), "%d. %B %Y")`'
+output: 
+  html_document: 
+    keep_md: yes
+---
+
+# SoReg på Rapporteket
+Foreløpig er dette bare et skall basert på [rapRegTemplate](https://github.com/Rapporteket/rapRegTemplate). Videre utvikling foretas av statistikere i Helse Bergen gjerne i et samarbeid med SKDE.
